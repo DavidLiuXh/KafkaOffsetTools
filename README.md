@@ -2,7 +2,7 @@
 This tool can be used to reset the committed offset for kafka
 # Build
 - install boost(http://www.boost.org), depends on boost_program_options lib; 
-- install librdkafka 0.9.4(https://github.com/DavidLiuXh/librdkafka/releases/tag/v0.9.4)
+- install librdkafka 0.9.4(https://github.com/edenhill/librdkafka/releases/tag/v0.9.4)
 - use build.sh to build
 # Usage
 - ./kafka_offset_tools -h
